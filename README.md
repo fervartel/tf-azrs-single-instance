@@ -1,10 +1,13 @@
-# Terraform template for Azure Virtual Network
+# Terraform template for Azure Virtual Machine
 
 ## Objectives
 The objective of this project is to demostrate how to use Terraform modules with Azure for creating:
 
 - Virtual Network
-- 2 Subnets
+- Public IP
+- Virtual NIC
+- SSH Security Group
+- Single Virtual Machine
 
 ## Requirements
 
